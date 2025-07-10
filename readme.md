@@ -3,17 +3,21 @@
 
 **Unleash Your Potential with Limitless Performance**
 
-[![Last Commit](https://img.shields.io/github/last-commit/onyx113/nike?style=flat)](https://github.com/onyx113/nike)
-![HTML](https://img.shields.io/badge/HTML-98.4%25-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-3-blue)
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/onyx113/nike?style=flat" alt="Last Commit">
+  <img src="https://img.shields.io/badge/HTML-98.4%25-brightgreen" alt="HTML">
+  <img src="https://img.shields.io/badge/Languages-3-blue" alt="Languages">
+</p>
 
 **Built with the tools and technologies:**
 
-![Npm](https://img.shields.io/badge/npm-yes-green)
-![Autoprefixer](https://img.shields.io/badge/PostCSS-Autoprefixer-red)
-![PostCSS](https://img.shields.io/badge/PostCSS-yes-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-yes-yellow)
-![Vite](https://img.shields.io/badge/Vite-yes-blue)
+<p align="center">
+  <img src="https://img.shields.io/badge/npm-yes-green" alt="Npm">
+  <img src="https://img.shields.io/badge/PostCSS-Autoprefixer-red" alt="Autoprefixer">
+  <img src="https://img.shields.io/badge/PostCSS-yes-orange" alt="PostCSS">
+  <img src="https://img.shields.io/badge/JavaScript-yes-yellow" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Vite-yes-blue" alt="Vite">
+</p>
 
 ## 🚀 Quick Start
 
