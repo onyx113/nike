@@ -1,7 +1,20 @@
 
 # Nike Project
 
-A simple static website template built using HTML, CSS, and JavaScript. This project serves as a base template for building static websites.
+**Unleash Your Potential with Limitless Performance**
+
+This project is a simple static website template built using **HTML**, **CSS**, and **JavaScript**. It serves as a base template for building high-performance static websites.
+
+## 🛠 Built With
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **npm**
+- **Autoprefixer**
+- **PostCSS**
+- **Vite**
+
 
 ## 🚀 Quick Start
 
