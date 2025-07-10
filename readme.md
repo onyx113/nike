@@ -3,18 +3,14 @@
 
 **Unleash Your Potential with Limitless Performance**
 
-This project is a simple static website template built using **HTML**, **CSS**, and **JavaScript**. It serves as a base template for building high-performance static websites.
-
-## 🛠 Built With
-
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **npm**
-- **Autoprefixer**
-- **PostCSS**
-- **Vite**
-
+[![Last Commit](https://img.shields.io/github/last-commit/onyx113/nike?style=flat)](https://github.com/onyx113/nike)
+![HTML](https://img.shields.io/badge/HTML-98.4%25-brightgreen)
+![Languages](https://img.shields.io/badge/Languages-3-blue)
+![Npm](https://img.shields.io/badge/npm-yes-green)
+![Autoprefixer](https://img.shields.io/badge/PostCSS-Autoprefixer-red)
+![PostCSS](https://img.shields.io/badge/PostCSS-yes-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-yes-yellow)
+![Vite](https://img.shields.io/badge/Vite-yes-blue)
 
 ## 🚀 Quick Start
 
