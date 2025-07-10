@@ -1,7 +1,9 @@
 
 # Nike Project
 
-**Unleash Your Potential with Limitless Performance**
+<p align="center" style="color: #888;">
+  **Unleash Your Potential with Limitless Performance**
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/onyx113/nike?style=flat" alt="Last Commit">
@@ -9,7 +11,9 @@
   <img src="https://img.shields.io/badge/Languages-3-blue" alt="Languages">
 </p>
 
-**Built with the tools and technologies:**
+<p align="center" style="color: #888;">
+  **Built with the tools and technologies:**
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/npm-yes-green" alt="Npm">
