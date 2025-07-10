@@ -6,6 +6,9 @@
 [![Last Commit](https://img.shields.io/github/last-commit/onyx113/nike?style=flat)](https://github.com/onyx113/nike)
 ![HTML](https://img.shields.io/badge/HTML-98.4%25-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-3-blue)
+
+**Built with the tools and technologies:**
+
 ![Npm](https://img.shields.io/badge/npm-yes-green)
 ![Autoprefixer](https://img.shields.io/badge/PostCSS-Autoprefixer-red)
 ![PostCSS](https://img.shields.io/badge/PostCSS-yes-orange)
