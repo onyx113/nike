@@ -69,8 +69,7 @@ nike/
 └── README.md
 ```
 
-- **src/index.html**: The main HTML file of the project.
-- **.gitignore**: Git configuration file to ignore specific files and directories.
+- **index.html**: The main HTML file of the project.
 - **package.json**: npm configuration file listing project dependencies and scripts.
 - **package-lock.json**: Ensures exact versions of dependencies are installed.
 - **postcss.config.js**: Configuration file for PostCSS to process the CSS.
@@ -83,10 +82,6 @@ To customize or extend the project:
 1. Modify the HTML, CSS, and JavaScript files in the `src/` directory.
 2. Use browser developer tools for debugging and testing.
 3. Utilize PostCSS for CSS processing.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 
