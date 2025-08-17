@@ -57,7 +57,11 @@ The project structure is as follows:
 ```
 nike/
 ├── src/
-│   └── index.html
+│   ├──imgs/
+│   ├──main.js
+│   ├──alpine.min.js
+│   └──style.css
+├── index.html
 ├── .gitignore
 ├── package.json
 ├── package-lock.json
